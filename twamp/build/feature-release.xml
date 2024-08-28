@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3277</product-id>
+	<feature-name>Ericsson-TWAMP-Analysis</feature-name>
+	<release>17B</release>
+	<system-area>Radio-Common/TWAMP</system-area>
+    <datasource-guid>5f6fc602-17a6-47c4-8063-3b2fdd113d42</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
